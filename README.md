@@ -1,2 +1,2 @@
 # [Drum-Machine](https://xahooligan.github.io/Drum-Machine/)
-An assignment for freecodecamp
+A Drum Machine for a freecodecamp assignment
